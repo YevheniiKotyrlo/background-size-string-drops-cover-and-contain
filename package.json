@@ -1,0 +1,8 @@
+{
+  "name": "background-size-string-drops-cover-and-contain",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "flow-remove-types": "2.342.0"
+  }
+}
